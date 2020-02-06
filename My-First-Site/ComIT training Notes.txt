@@ -1,0 +1,85 @@
+NODE JS training.
+Git hub info:file:///C:/Users/Gbenga/AppData/Local/Programs/Git/ReleaseNotes.html
+Commands to check version: git --version
+git init
+mkdir nodeyqr
+cd nodeyqr
+pwd
+git status
+ls -la
+.
+..
+.git
+Git hub for desktop user name is omotayo1234 and email is omotayooni7@gmail.com and the usual PWD-Nifemi1435$
+
+git config --global user.name <github userID>
+git config --global user.email <github email>
+
+git init
+git add .
+git commit -m "my first commit"
+
+What are Favicons?
+Favicons are small 16x16 icon files that are displayed next to the URL of your site in a browser's address bar. Additionally they're often displayed next to the name of your site in a user's list of open tabs and bookmark listings making it easier for the user to quickly identify amongst other sites.
+What are App Icons?
+App Icons are the images you press on your smartphone to launch an application. As newer phones are released with higher resolution screens, higher resolution app icons are needed. Developers still want to maintain support for the older phones with lower resoltion so when you create an app icon you need to create several size variations of the same image. This is true for all smartphones like the iPhone and Android, and even tablets like iPad.
+
+What does this tool do?
+Although many modern web browsers support favicons saved as GIFs, PNGs or other popular file formats all versions of 
+Internet Explorer still require favicons 
+
+Table
+Rowspan and Columnspn
+Th-Table head
+Td-table date
+Table foot is the total
+Pixels is dots on screen
+Colspan is to marge columsns
+<P> paragraph
+<Div> Generic
+
+
+FORMS
+Method how you are going  to get the infomation:3 types 
+Put is for updating
+Post u dont want them to know 
+delete
+enctype
+Html can not process forms but javascripts can
+you cant restrict a value in html instead go to javascript to achieve that.
+Field set for various data set
+Two types of buttons are the radio box either yes or no and checkbox like square
+
+input hiddent to generate token
+Select tag and you have options
+You can also have button s in Forms but it is visual
+
+<!DOCTYPE html>
+<html>
+
+<head>
+   <title>title</title>
+</head>
+
+<body>
+    this is the body
+</body>
+
+</html>
+
+Exercise 12
+Node image of register and save it in the folder path
+
+Iframe src="http://www.google.com" height='200"
+
+VIDEO
+First video image u are going to see is the poster
+Attributes for videos are controls using buttons,autoplay,loop,preload(,
+AUDIO
+Mp3, safari,chrome
+OGg high quality sound
+Autoplay,source
+
+Atributes we can produce are:
+Author,Charsets,viewport,keywords,description
+
